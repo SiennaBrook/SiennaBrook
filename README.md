@@ -21,8 +21,10 @@ My hobbies are **painting**:paint: and **photography**:camera:.
 ***
 
 #### Certifications :receipt:
-1. **Coursera**-*21st century communication system*
-2. **Bangiya Sangeet parshad**-*7th year painting*
+|Sl.no|course name|course
+|---|---|---|
+|1.| **Coursera**|*21st century communication system*|
+|2.|**Bangiya Sangeet parshad**|*7th year painting*|
 
 ***
 
