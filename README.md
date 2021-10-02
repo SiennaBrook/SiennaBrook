@@ -18,5 +18,8 @@ My hobbies are **painting**:paint: and **photography**:camera:.
 
 ***
 
-#### :phone: u can connect me :phone:
-**github link** - [click here]()
+#### :phone: U can connect me :phone:
+-**github link** - [click here](https://github.com/SiennaBrook)
+
+-**linkedin link**-[click here](https://www.linkedin.com/in/shreya-chakraborty-b83190205)
+
