@@ -1,4 +1,8 @@
 # Introduction
+
+![image](https://user-images.githubusercontent.com/91650055/135705293-12b93827-2a16-41c7-8470-b3b4260dcc96.jpg)
+
+
 Hi:wave:. myself **Shreya Chakreborty**.
 I am a first year undergraduate student of **Netaji Subhas Engineering College.**:house:
 I am a tech enthusiast and passionate to learn new skills.:computer:
@@ -7,7 +11,7 @@ My hobbies are **painting**:paint: and **photography**:camera:.
 #### Skills:pen:
 
 - **c language**
-- **HTML**
+- **HTML**     ![gif](
 - **painting**
 
 ***
