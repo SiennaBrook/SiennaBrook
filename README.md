@@ -6,7 +6,7 @@
 Hi:wave:. myself **Shreya Chakraborty**.
 I am a first year undergraduate student of **Netaji Subhas Engineering College.**:house:
 I am a tech enthusiast and passionate to learn new skills.:computer:
-My hobbies are **painting**:brush: and **photography**:camera:.
+My hobbies are **painting**:paintbrush: and **photography**:camera:.
 ***
 #### Skills:pen:
 
