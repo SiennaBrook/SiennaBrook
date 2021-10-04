@@ -6,16 +6,15 @@
 Hi:wave:. myself **Shreya Chakraborty**.
 I am a first year undergraduate student of **Netaji Subhas Engineering College.**:house:
 I am a tech enthusiast and passionate to learn new skills.:computer:
-My hobbies are **painting** and **photography**:camera:.
+My hobbies are **painting**:brush: and **photography**:camera:.
 ***
 #### Skills:pen:
 
+ ![gif](![74571cb6-c8b1-4bb7-9468-2e5f2e3043ba](https://user-images.githubusercontent.com/91650055/135705632-6b348099-9080-4e8b-8c99-6dda11f93e92.gif)
+
+
 - **c language**
-- **HTML**                       ![gif](![74571cb6-c8b1-4bb7-9468-2e5f2e3043ba](https://user-images.githubusercontent.com/91650055/135705632-6b348099-9080-4e8b-8c99-6dda11f93e92.gif)
-
-
-
-
+- **HTML**                      
 - **painting**
 
 ***
