@@ -4,7 +4,7 @@
 
 
 Hi:wave:. myself **Shreya Chakraborty**.
-I am a first year undergraduate student of **Institute of Engineering and Managemwnt.**:house:
+I am a first year undergraduate student of **Institute of Engineering and Management.**:house:
 I am a tech enthusiast and passionate to learn new skills.:computer:
 My hobbies are **painting**:paintbrush: and **photography**:camera:.
 ***
