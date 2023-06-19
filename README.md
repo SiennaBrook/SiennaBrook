@@ -18,6 +18,11 @@ worked in several projects .
 - **Diversion'21**-Here we had worked in a project named Sorteria.This project is a platform to store patient details.This used Blockchain Technology to store the information of patients safely.
 
 - **Utsav App** - I work as an intern of video editing using Canva and Social Media Anyalyst.
+
+  ## Reach Me 
+- E-mail- [ Chakrabortyshreya774@gmail.com]
+- Linked-In - [ https://www.linkedin.com/in/shreya-chakraborty-b83190205/]
+- Instagram - [https://www.instagram.com/_.siennabrook._/]
     
 
 
