@@ -22,7 +22,7 @@ worked in several projects .
   ## Reach Me 
 - E-mail- [ Chakrabortyshreya774@gmail.com]
 - Linked-In - [ https://www.linkedin.com/in/shreya-chakraborty-b83190205/]
-- Instagram - [https://www.instagram.com/_.siennabrook._/]
+- Instagram - [https://www.instagram.com/_.siennabrook._/ ]
     
 
 
